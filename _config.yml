@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shengwei Zhou"
-description              : "Mr. Shengwei Zhou is currently a second-year Ph.D. student at the University of Macau. "
+description              : "Mr. Shengwei Zhou is currently a third-year Ph.D. student at the University of Macau. "
 repository               : "ARTHURCHOU/ARTHURCHOU.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "ARTHURCHOU"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/shengwei-zhou-892194195"
   dblp             : "https://dblp.org/pid/224/2517-2.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0001-9739-1308
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
