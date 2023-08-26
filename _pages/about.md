@@ -19,7 +19,7 @@ redirect_from:
 
 Mr. Shengwei Zhou is currently a third-year Ph.D. student under the supervision of Prof. Xiaowei Wu in the State Key Laboratory in the Internet of Things for Smart City (IOTSC) at the University of Macau. He received his M.Sc. degree in Urban Informatics from CUSP London at King's College London under the supervision of Dr. Angus Roberts. He received his B.Eng. degree in Urban-rural Planning from Wuhan University. 
 
-His research interest includes theoretical computer science and urban informatics. His research interests span various topics in Fair Allocation Problems, Online Bipartite Matching, and Urban Informatics. <a href='https://scholar.google.com/citations?user=DG79d_oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+His research interest includes theoretical computer science and urban informatics. His research interests span various topics in Fair Allocation Problems, Online Bipartite Matching, and Urban Informatics. (<a href='https://scholar.google.com/citations?user=DG79d_oAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -34,22 +34,16 @@ His research interest includes theoretical computer science and urban informatic
 
 # 📝 Peer-reviewed Publications 
 
-- <div><div class="badge">EC 2023</div> <span class='show_paper_citations' data='DG79d_oAAAAJ:9ZlFYXVOiuMC'></span>
-
+- <div><div class="badge">EC 2023</div> 
 [Weighted EF1 Allocations for Indivisible Chores](https://arxiv.org/abs/2301.08090)
-
 Xiaowei Wu, Cong Zhang, **Shengwei Zhou**
 
-- <div><div class="badge">ICML 2023</div> <span class='show_paper_citations' data='DG79d_oAAAAJ:9ZlFYXVOiuMC'></span>
-
+- <div><div class="badge">ICML 2023</div> 
 [Multi-agent Scheduling: MMS Allocations for Indivisible Items](https://arxiv.org/abs/2304.13405)
-
 **Shengwei Zhou**, Rufan Bai, Xiaowei Wu
 
-- <div><div class="badge">IJCAI 2022</div> <strong><span class='show_paper_citations' data='DG79d_oAAAAJ:7PzlFSSx8tAC'></span></strong>
-
+- <div><div class="badge">IJCAI 2022</div>
 [Approximately EFX Allocations for Indivisible Chores](https://arxiv.org/abs/2109.07313)
-
 **Shengwei Zhou**, Xiaowei Wu
 
 # 🎖 Honors and Awards
