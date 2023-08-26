@@ -27,16 +27,22 @@ His research interest includes theoretical computer science and urban informatic
 - *2023.07*: Our paper "One Quarter Each (on Average) Ensures Proportionality" is now available on arXiv.
 - *2023.06*: Our paper "Improved Competitive Ratios for Online Bipartite Matching on Degree Bounded Graphs" is now available on arXiv.
 - *2023.05*: Our paper "Weighted EF1 allocations for Indivisible Chores" is accepted by **EC 2023**.
-- *2023.04*: Our paper "Multi-agent Online Scheduling: MMS Allocations for Indivisible Items" is accepted by **IMCL 2023**.
+- *2023.04*: Our paper "Multi-agent Online Scheduling: MMS Allocations for Indivisible Items" is accepted by **ICML 2023**.
 - *2023.02*: Our paper "Improved Competitive Ratio for Edge-Weighted Online Stochastic Matching " is now available on arXiv
 - *2023.01*: Our paper "Weighted EF1 allocations for Indivisible Chores" is now available on arXiv.
 - *2022.01*: Our paper "Approximately EFX Allocations for Indivisible Chores" is accepted by **IJCAI 2022**.
 
 # 📝 Publications 
 
-- <div><div class="badge">EC 2023</div> <span class='show_paper_citations' data='DG79d_oAAAAJ:7PzlFSSx8tAC'></span>
+- <div><div class="badge">EC 2023</div> <span class='show_paper_citations' data='DG79d_oAAAAJ:9ZlFYXVOiuMC'></span>
 
-[Weighted EF1 Allocations for Indivisible Chores](https://arxiv.org/abs/2109.07313)
+[Weighted EF1 Allocations for Indivisible Chores](https://arxiv.org/abs/2301.08090)
+
+Xiaowei Wu, Cong Zhang, **Shengwei Zhou**
+
+- <div><div class="badge">ICML 2023</div> <span class='show_paper_citations' data='DG79d_oAAAAJ:9ZlFYXVOiuMC'></span>
+
+[Multi-agent Scheduling: MMS Allocations for Indivisible Items](https://arxiv.org/abs/2304.13405)
 
 Xiaowei Wu, Cong Zhang, **Shengwei Zhou**
 
@@ -45,9 +51,6 @@ Xiaowei Wu, Cong Zhang, **Shengwei Zhou**
 [Approximately EFX Allocations for Indivisible Chores](https://arxiv.org/abs/2109.07313)
 
 **Shengwei Zhou**, Xiaowei Wu
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.08 - now* UM PhD Assistantship.
