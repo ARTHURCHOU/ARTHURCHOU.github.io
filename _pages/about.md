@@ -58,8 +58,9 @@ His research interest includes theoretical computer science and urban informatic
 - *2014.09 - 2019.06*, B.Eng. in Urban-rural Planning, Wuhan University.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.08*, Weighted EF1 Allocations for Indivisible Chores, in IJTCS-FAW 2023, Macau SAR.
+- *2023.08*, Weighted EF1 Allocations for Indivisible Chores, in EC 2023, London, UK.
+- *2022.11*, Approximately EFX Allocations for Indivisible Chores, In IJCAI-China 2022, Shenzhen, China.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.04 - 2021.07*, Research Assistant, University of Macau, Macau SAR.
