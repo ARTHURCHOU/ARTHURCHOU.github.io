@@ -55,7 +55,8 @@ His research interest includes theoretical computer science and urban informatic
 # 📖 Educations
 - *2021.08 - now*, Ph.D. in Computer Science, University of Macau. 
 - *2019.09 - 2020.09*, M.Sc. in Urban Informatics, King's College London. 
-- *2014.09 - 2019.06*, B.Eng. in Urban-rural Planning, Wuhan University. 
+- *2014.09 - 2019.06*, B.Eng. in Urban-rural Planning, Wuhan University.
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
