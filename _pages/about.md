@@ -34,7 +34,7 @@ His research interest includes theoretical computer science and urban informatic
 
 # 📝 Publications 
 
-- <div><div class="badge">EC 2023</div>(https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DG79d_oAAAAJ&citation_for_view=DG79d_oAAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='DG79d_oAAAAJ:7PzlFSSx8tAC'></span></strong>
+- <div><div class="badge">EC 2023</div> <span class='show_paper_citations' data='DG79d_oAAAAJ:7PzlFSSx8tAC'></span>
 
 [Weighted EF1 Allocations for Indivisible Chores](https://arxiv.org/abs/2109.07313)
 
