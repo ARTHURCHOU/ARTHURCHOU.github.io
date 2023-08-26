@@ -32,7 +32,7 @@ His research interest includes theoretical computer science and urban informatic
 - *2023.01*: Our paper "Weighted EF1 allocations for Indivisible Chores" is now available on arXiv.
 - *2022.01*: Our paper "Approximately EFX Allocations for Indivisible Chores" is accepted by **IJCAI 2022**.
 
-# 📝 Publications 
+# 📝 Peer-reviewed Publications 
 
 - <div><div class="badge">EC 2023</div> <span class='show_paper_citations' data='DG79d_oAAAAJ:9ZlFYXVOiuMC'></span>
 
@@ -46,13 +46,11 @@ Xiaowei Wu, Cong Zhang, **Shengwei Zhou**
 
 **Shengwei Zhou**, Rufan Bai, Xiaowei Wu
 
-- <div><div class="badge">IJCAI 2022</div> (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DG79d_oAAAAJ&citation_for_view=DG79d_oAAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='DG79d_oAAAAJ:7PzlFSSx8tAC'></span></strong>
+- <div><div class="badge">IJCAI 2022</div> <strong><span class='show_paper_citations' data='DG79d_oAAAAJ:7PzlFSSx8tAC'></span></strong>
 
 [Approximately EFX Allocations for Indivisible Chores](https://arxiv.org/abs/2109.07313)
 
 **Shengwei Zhou**, Xiaowei Wu
-
-**Project** <strong><span class='show_paper_citations' data='DG79d_oAAAAJ:7PzlFSSx8tAC'></span></strong>
 
 # 🎖 Honors and Awards
 - *2021.08 - now* UM PhD Assistantship.
