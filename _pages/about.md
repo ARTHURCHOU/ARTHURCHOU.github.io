@@ -34,19 +34,18 @@ His research interest includes theoretical computer science and urban informatic
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-- <div><div class="badge">IJCAI 2022</div>
+- <div><div class="badge">EC 2023</div>(https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DG79d_oAAAAJ&citation_for_view=DG79d_oAAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='DG79d_oAAAAJ:7PzlFSSx8tAC'></span></strong>
+
+[Weighted EF1 Allocations for Indivisible Chores](https://arxiv.org/abs/2109.07313)
+
+Xiaowei Wu, Cong Zhang, **Shengwei Zhou**
+
+- <div><div class="badge">IJCAI 2022</div>(https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DG79d_oAAAAJ&citation_for_view=DG79d_oAAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='DG79d_oAAAAJ:7PzlFSSx8tAC'></span></strong>
 
 [Approximately EFX Allocations for Indivisible Chores](https://arxiv.org/abs/2109.07313)
 
 **Shengwei Zhou**, Xiaowei Wu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DG79d_oAAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='DG79d_oAAAAJ:7PzlFSSx8tAC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
