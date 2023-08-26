@@ -52,7 +52,7 @@ Xiaowei Wu, Cong Zhang, **Shengwei Zhou**
 
 **Shengwei Zhou**, Xiaowei Wu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DG79d_oAAAAJ&citation_for_view=DG79d_oAAAAJ:7PzlFSSx8tAC) <strong><span class='show_paper_citations' data='DG79d_oAAAAJ:7PzlFSSx8tAC'></span></strong>
+**Project** <strong><span class='show_paper_citations' data='DG79d_oAAAAJ:7PzlFSSx8tAC'></span></strong>
 
 # 🎖 Honors and Awards
 - *2021.08 - now* UM PhD Assistantship.
