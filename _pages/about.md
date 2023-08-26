@@ -34,7 +34,7 @@ His research interest includes theoretical computer science and urban informatic
 
 # 📝 Peer-reviewed Publications 
 
-- ``ICML 2023``
+- ``EC 2023``
 [Weighted EF1 Allocations for Indivisible Chores](https://arxiv.org/abs/2301.08090)
 Xiaowei Wu, Cong Zhang, **Shengwei Zhou**
 
@@ -42,7 +42,7 @@ Xiaowei Wu, Cong Zhang, **Shengwei Zhou**
 [Multi-agent Scheduling: MMS Allocations for Indivisible Items](https://arxiv.org/abs/2304.13405)
 **Shengwei Zhou**, Rufan Bai, Xiaowei Wu
 
-- <div><div class="badge">IJCAI 2022</div>
+- ``IJCAI 2022``
 [Approximately EFX Allocations for Indivisible Chores](https://arxiv.org/abs/2109.07313)
 **Shengwei Zhou**, Xiaowei Wu
 
